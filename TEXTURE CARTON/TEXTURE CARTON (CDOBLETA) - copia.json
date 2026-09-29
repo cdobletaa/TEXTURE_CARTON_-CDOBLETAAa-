@@ -1,0 +1,472 @@
+{
+  "replacement_rules": [
+    {
+      "name": "texture_peismarine",
+      "replace_ids": [
+        17429458668
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_madera",
+      "replace_ids": [
+        7547332968
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_ladrillos_piedra",
+      "replace_ids": [
+        9873322398
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_cobblestone",
+      "replace_ids": [
+        7546652947
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_tejas",
+      "replace_ids": [
+        18147685875
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_cuarzo",
+      "replace_ids": [
+        14108675388
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_lana",
+      "replace_ids": [
+        7547101130
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_ladrillos",
+      "replace_ids": [
+        91579661064923
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_lanaaaaa",
+      "replace_ids": [
+        14108663921
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_awdawd",
+      "replace_ids": [
+        7547169285
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "detalle_cespe",
+      "replace_ids": [
+        9873288083
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_mnadera",
+      "replace_ids": [
+        7547303225
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_hierro",
+      "replace_ids": [
+        7547288171
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_piedra_lisa",
+      "replace_ids": [
+        7547298114
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "detalle_pantalla_de_carga",
+      "replace_ids": [
+        112295185901220
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/pantalla%20de%20carga.png"
+    },
+    {
+      "name": "texture_arena",
+      "replace_ids": [
+        9438851661
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_stonee",
+      "replace_ids": [
+        9438413638
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_ladrillos",
+      "replace_ids": [
+        7546650097
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_marmol_calcite",
+      "replace_ids": [
+        7547177270
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_marmolll",
+      "replace_ids": [
+        14108671010
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_diorita",
+      "replace_ids": [
+        9873319819
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_arena",
+      "replace_ids": [
+        7547295153
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_diorita",
+      "replace_ids": [
+        7546653951
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_diorita 2",
+      "replace_ids": [
+        7547291361
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "mapa_fabrica",
+      "replace_ids": [
+        124619498071358
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/%F0%9F%90%BC%20(1).png"
+    },
+    {
+      "name": "mapa_mill",
+      "replace_ids": [
+        85706041259427
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/%F0%9F%90%BC%20(2).png"
+    },
+    {
+      "name": "mapa_hotel",
+      "replace_ids": [
+        109043775556196
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/%F0%9F%90%BC%20(3).png"
+    },
+    {
+      "name": "mapa_pool",
+      "replace_ids": [
+        116086814045417
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/%F0%9F%90%BC.png"
+    },
+    {
+      "name": "detalle_grafiti_factori",
+      "replace_ids": [
+        102121265713036
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/grafito.png"
+    },
+    {
+      "name": "texture_piedra",
+      "replace_ids": [
+        97846065317600
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_ladrillos piedra",
+      "replace_ids": [
+        85302878125226
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_piedra 1",
+      "replace_ids": [
+        14108672569
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "detalle_shot",
+      "replace_ids": [
+        103023694185478
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/GENGAR.png"
+    },
+    {
+      "name": "texture_piedra",
+      "replace_ids": [
+        14108675388
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_piedra",
+      "replace_ids": [
+        9873267379
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_piedra",
+      "replace_ids": [
+        85302878125226
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_piedra 5",
+      "replace_ids": [
+        92119731331932
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_piedra 6",
+      "replace_ids": [
+        9873521380
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_piedra 7",
+      "replace_ids": [
+        9873270487
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "texture_piedra  8",
+      "replace_ids": [
+        117485247237739
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/Captura%20de%20pantalla%202026-09-29%20142729.png"
+    },
+    {
+      "name": "shot",
+      "replace_ids": [
+        86187489237388
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/GENGAR.png"
+    },
+    {
+      "name": "monedas_1",
+      "replace_ids": [
+        109755583540636
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/GENGAR.png"
+    },
+    {
+      "name": "monedas_2",
+      "replace_ids": [
+        109755583540636
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/GENGAR.png"
+    },
+    {
+      "name": "monedas_3",
+      "replace_ids": [
+        109755583540636
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/GENGAR.png"
+    },
+    {
+      "name": "cursor",
+      "replace_ids": [
+        114987734743262
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/crosse.png"
+    },
+    {
+      "name": "rejas_factori",
+      "replace_ids": [
+        5025781662
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/GENGAR.png"
+    },
+    {
+      "name": "espectador",
+      "replace_ids": [
+        118311456954456
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/refs/heads/main/RPF/GENGAR.png"
+    },
+    {
+      "name": "WIN",
+      "replace_ids": [
+        113599363914218
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/raw/refs/heads/main/RPF/vasio.mp3"
+    },
+    {
+      "name": "recarga",
+      "replace_ids": [
+        6336569579
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/raw/refs/heads/main/RPF/katana.mp3"
+    },
+    {
+      "name": "canbio de armas",
+      "replace_ids": [
+        169799883
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/raw/refs/heads/main/RPF/vasio.mp3"
+    },
+    {
+      "name": "disparo kill",
+      "replace_ids": [
+        296102734
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/raw/refs/heads/main/RPF/bellakita%20bajo.mp3"
+    },
+    {
+      "name": "disparo fallado",
+      "replace_ids": [
+        10209803
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/cdobletaa/TEXTURE_CARTON_-CDOBLETAAa-/raw/refs/heads/main/RPF/TAP%20BAJO.mp3"
+    }
+  ]
+}
